@@ -34,4 +34,6 @@ elif language == 'Korean':
     print('안녕하세요')
 elif language == 'Japanese':
     print('こんにちは')
+elif language != 'Vietnamese''Korean''Japanese':
+    print('Something went wrong!')
 
